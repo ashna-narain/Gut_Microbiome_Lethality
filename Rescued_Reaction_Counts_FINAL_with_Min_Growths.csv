@@ -1,0 +1,1161 @@
+,Subsystem,Count
+FMNAT,Vitamin B2 metabolism,6
+RBFK,Vitamin B2 metabolism,6
+ACPS1,CoA synthesis,7
+ALAALA,Alanine and aspartate metabolism,7
+PAPPT3,Cell wall biosynthesis,7
+PEPGLY,Cell wall biosynthesis,7
+UAAGDS,Cell wall biosynthesis,7
+UAGPT3,Cell wall biosynthesis,7
+UAMAGS,Cell wall biosynthesis,7
+UAMAS,Cell wall biosynthesis,7
+UAPGR,Cell wall biosynthesis,7
+UGMDDS,Cell wall biosynthesis,7
+dreplication,Exchange/demand reaction,7
+pbiosynthesis,Exchange/demand reaction,7
+rtranscription,Exchange/demand reaction,7
+BPNT,Nucleotide interconversion,8
+DMATT,Cholesterol metabolism,9
+DPCOAK,CoA synthesis,9
+GRTT,Cholesterol metabolism,9
+UAGCVT_r,Aminosugar metabolism,10
+UDCPDP,Cell wall biosynthesis,11
+ARAI,Pentose and glucuronate interconversions,25
+RBK_L1,Pentose phosphate pathway,25
+RBP4E,Pentose and glucuronate interconversions,25
+UPPRT,Nucleotide salvage pathway,29
+LEUt2rpp,,43
+LEU_Ltex,,44
+CHOLSH,"Glycine, serine, alanine and threonine metabolism",48
+MANtex,,49
+MALTtex,,49
+GND,Pentose phosphate pathway,49
+ALAGLNtex,,50
+URAt2pp,,50
+CORE4tex,,50
+GLCNACASE_OGLYCAN5epp,,50
+NTD7,Nucleotide interconversion,50
+PFK_3,Pentose phosphate pathway,50
+AGMT,Arginine and Proline Metabolism,51
+AGPAT180,Glycerophospholipid metabolism,51
+DEXTRINabcpp,,51
+DEXTRINtex,,51
+FOLR3,Folate metabolism,51
+GCCa,"Glycine, serine, alanine and threonine metabolism",51
+GCCb,"Glycine, serine, alanine and threonine metabolism",51
+GCCc,"Glycine, serine, alanine and threonine metabolism",51
+HYD4,Energy metabolism,51
+INDOLEt2rpp,,51
+INDOLEtex,,51
+KAS17rev,Fatty acid synthesis,51
+OCDCAtrpp,,51
+OCDCEAtex,,51
+OCDCEAtrpp,,51
+PNTOabcpp,,51
+PREN,Terpenoid backbone biosynthesis,51
+PROt2rpp,,51
+TRPAS2,Tryptophan metabolism,51
+UREAtex,,51
+UREAtpp,,51
+biomass374,,51
+ARABINOGALASEe,Plant polysaccharide degradation,51
+CMPN,Nucleotide interconversion,51
+CSND,Pyrimidine catabolism,51
+ALAGLNabcpp,,51
+ATPS4pp,,51
+DM_NA1,,51
+GLYLEUPEPT1tcpp,,51
+GLYLEUtex,,51
+LLEUDr,"Valine, leucine, and isoleucine metabolism",51
+L_ILE3MR,"Valine, leucine, and isoleucine metabolism",51
+NA1tex,,51
+biomass310,,51
+4ABZt2,"Transport, extracellular",51
+AMYLe,Starch and sucrose metabolism,51
+GART,Purine synthesis,51
+CYSTL,Methionine and cysteine metabolism,51
+FDH,Fatty acid oxidation,51
+GAMt2r,"Transport, extracellular",51
+LDH_L,Glycolysis/gluconeogenesis,51
+L_LACD2,Pyruvate metabolism,51
+NDPK9,Nucleotide interconversion,51
+PPM,Pentose phosphate pathway,51
+SUCOAS1,Citric acid cycle,51
+ORNt,"Transport, extracellular",51
+THRt2r,"Transport, extracellular",51
+r1667,"Transport, extracellular",51
+ALAASP1c,Peptide metabolism,51
+ALAASPabcpp,,51
+ALAASPtex,,51
+G3PD8i,Glycerophospholipid metabolism,51
+GLYGLNabcpp,,51
+GLYGLNtex,,51
+GLCNACASE_OGLYCAN2e,O-Glycan degradation,51
+ADEt2,"Transport, extracellular",51
+AMYLOPECTe,Starch and sucrose metabolism,51
+ADNt2pp,,51
+PYDX5Ptex,,51
+URAtex,,51
+r0871pp,,51
+biomass400,,51
+DAGK180,Glycerophospholipid metabolism,51
+FRUpts,"Transport, extracellular",51
+GALASE_LACTLe,,51
+biomass156,,51
+2MEBCOADH,"Valine, leucine, and isoleucine metabolism",51
+3MEBCOADH,"Valine, leucine, and isoleucine metabolism",51
+ADSK,Nucleotide interconversion,51
+AGDC,Aminosugar metabolism,51
+GLYASPabcpp,,51
+GLYASPtex,,51
+MANptspp,,51
+THMt3,"Transport, extracellular",51
+ZN2t4,"Transport, extracellular",51
+biomass146,,51
+ALCD4,Pyruvate metabolism,51
+BTALDH,Butanoate metabolism,51
+BTOHt2rpp,,51
+BTOHtex,,51
+BUTKr,Butanoate metabolism,51
+BUTt2rpp,,51
+BUTtex,,51
+GLYPROPRO1c,"Transport, extracellular",51
+GLYPROabcpp,,51
+GLYPROtex,,51
+PBUTT,Butanoate metabolism,51
+CLPNH180,Glycerophospholipid metabolism,51
+biomass406,,51
+AHMMPS,Thiamine metabolism,51
+ARABI,Pentose phosphate pathway,51
+DRIBI,Pentose and glucuronate interconversions,51
+NDPK3,Nucleotide interconversion,51
+TRDR,,51
+biomass414,,51
+26DAPLLATi,Lysine metabolism,51
+ARGDA,Arginine and Proline Metabolism,51
+MALT6PH,Starch and sucrose metabolism,51
+MALTptspp,,51
+ALTRH,Pentose and glucuronate interconversions,51
+DDGLK,Pentose and glucuronate interconversions,51
+EDA_R,Pentose phosphate pathway,51
+FLVRxe,Energy metabolism,51
+GALURt2r,"Transport, extracellular",51
+GUI2,Pentose and glucuronate interconversions,51
+HISt2r,"Transport, extracellular",51
+NACUP,"Transport, extracellular",51
+PECTIN_DEGe,Plant polysaccharide degradation,51
+TAGURr,Pentose and glucuronate interconversions,51
+MAN6Pt6_2pp,,51
+MAN6Ptex,,51
+TREptspp,,51
+TREtex,,51
+biomass372,,51
+biomass386,,51
+26DAPt2r,"Transport, extracellular",51
+ALATA_D,Glutamate metabolism,51
+biomass201,,51
+ACGAM2E,Aminosugar metabolism,51
+ARABINOGALASEepp,,51
+ARABINOGALtex,,51
+CSABCASE_B_epp,,51
+CSPG_AB_RESTtex,,51
+CSPG_Btex,,51
+GALabcpp,,51
+UAG2EMA,Aminosugar metabolism,51
+ADNCNT3tcpp,,51
+ADNK1,Nucleotide interconversion,51
+ASNS2,Alanine and aspartate metabolism,51
+BVUtepp,,51
+BVUtex,,51
+CYSDS,Methionine and cysteine metabolism,51
+FTCD,Folate metabolism,51
+GLUOX,Glutamate metabolism,51
+HISD,Histidine metabolism,51
+IZPN,Histidine metabolism,51
+PYNP_SRV,,51
+SRVt2pp,,51
+SRVtex,,51
+URCN,Histidine metabolism,51
+biomass399,,51
+ALAS,"Glycine, serine, alanine and threonine metabolism",51
+PULLULAN1200tex,,51
+PULLepp,,51
+UPP3MT,Vitamin B12 metabolism,51
+L2A6ODs,Lysine metabolism,51
+NCAMt2rpp,,51
+NCAMtex,,51
+GLYASPabc,"Transport, extracellular",51
+ASNS1,Alanine and aspartate metabolism,51
+ASPO7,NAD metabolism,51
+DTMPt,"Transport, extracellular",51
+S7P1K,Pentose phosphate pathway,51
+SULR,Methionine and cysteine metabolism,51
+TMDSf,Nucleotide interconversion,51
+TSULabc,"Transport, extracellular",51
+3MOPt2r,"Transport, extracellular",51
+ASNt2r,"Transport, extracellular",51
+CGLYt3_2,"Transport, extracellular",51
+DALAt2r,"Transport, extracellular",51
+DAPabc,"Transport, extracellular",51
+FOLRrev,Folate metabolism,51
+GCHOLBHSe,Bile acid metabolism,51
+GMPR,Nucleotide interconversion,51
+GSNt2,"Transport, extracellular",51
+HISCAT1,,51
+HMGCOARxi,Squalene and cholesterol synthesis,51
+PROt2r,"Transport, extracellular",51
+PTRCabc,"Transport, extracellular",51
+THRAr,"Glycine, serine, alanine and threonine metabolism",51
+r0792,Folate metabolism,51
+biomass183,,51
+ACACt2pp,,51
+ACACtex,,51
+ALALEU1c,Peptide metabolism,51
+ALALEUabcpp,,51
+ALALEUtex,,51
+ARGN,Urea cycle,51
+ARGt2rpp,,51
+CYTDt2rpp,,51
+CYTDtex,,51
+GLYPHEabcpp,,51
+GLYPHEtex,,51
+OCOAT1r,"Valine, leucine, and isoleucine metabolism",51
+RNDR1,Nucleotide interconversion,51
+RNDR2,Nucleotide interconversion,51
+RNDR3,Nucleotide interconversion,51
+ASPO5,NAD metabolism,51
+HYXNti,"Transport, extracellular",51
+IPDPS,Terpenoid backbone biosynthesis,51
+S17BPH,Carbon fixation in photosynthetic organisms,51
+biomass200,,51
+ALAPAT4te,,51
+ARGabc,"Transport, extracellular",51
+GUAt2,"Transport, extracellular",51
+METSOX1abc,"Transport, extracellular",51
+METSOXR1r,"Transport, extracellular",51
+O2t,"Transport, extracellular",51
+PGL,Pentose phosphate pathway,51
+ALAt2r,"Transport, extracellular",51
+ME1,Citric acid cycle,51
+XYLOTTR_DEG,,51
+XYLOTTRabc,,51
+ARBabc,"Transport, extracellular",51
+NTD5_a,Vitamin B2 metabolism,51
+DMPPS2r,Terpenoid backbone biosynthesis,51
+2S6HCC,Ubiquinone and other terpenoid-quinone biosynthesis,51
+CHOLK,Glycerophospholipid metabolism,51
+DXPRIi,Terpenoid backbone biosynthesis,51
+ICHORSi,,51
+NCAMt2r,"Transport, extracellular",51
+sink_cholp(c),Exchange/demand reaction,51
+sink_chols,Exchange/demand reaction,51
+biomass130,,51
+ACS,Glycolysis/gluconeogenesis,51
+ADD,Nucleotide interconversion,51
+ANZPtex,,51
+DGSNt2rpp,,51
+DGSNtex,,51
+FRUptspp,,51
+FRUtex,,51
+H2Otex,,51
+HXANtex,,51
+HYXNtipp,,51
+ME2,Pyruvate metabolism,51
+NTD5,Pyrimidine catabolism,51
+NTD6,Nucleotide interconversion,51
+NTD9,Nucleotide interconversion,51
+NTPP7,Nucleotide interconversion,51
+NZP_NR,,51
+NZPtex,,51
+PUNP2,Purine catabolism,51
+PUNP4,Purine catabolism,51
+SERt2rpp,,51
+SUCCt2rpp,,51
+SUCCtex,,51
+THYMDtr2pp,,51
+r0345,Nucleotide interconversion,51
+tANZPpp,,51
+tNZPpp,,51
+biomass533,,51
+AKGS,Pyruvate metabolism,51
+HETZK,Thiamine metabolism,51
+L2A6OD2s,Lysine metabolism,51
+SULabcpp,,51
+TMN,Thiamine metabolism,51
+r0391,,51
+biomass265,,51
+DUTPDP,Pyrimidine catabolism,51
+biomass370,,51
+AACPS7,Fatty acid synthesis,51
+DDCAtex,,51
+DDCAtpp,,51
+biomass116,,51
+KESTOPTASEepp,,51
+KESTOPTtex,,51
+FUMt2r,"Transport, extracellular",51
+GLCabcpp,,51
+GLYCLTt2rpp,,51
+GLYCLTtex,,51
+LMN2epp,,51
+LMN30tex,,51
+LMNepp,,51
+5MTHCYST,Methionine and cysteine metabolism,51
+5MTHGLUS,,51
+FOLabcpp,,51
+GLN_Ltex,,51
+GLNt2rpp,,51
+PIt7irpp,,51
+ZN2t4pp,,51
+sink_pheme(c),Exchange/demand reaction,51
+sink_q8(c),Exchange/demand reaction,51
+biomass328,,51
+SHSL2,Methionine and cysteine metabolism,51
+GCALDDr,Glyoxylate and dicarboxylate metabolism,51
+biomass353,,51
+2DMMQ8abcpp,,54
+2DMMQ8tex,,54
+DTMPK,Nucleotide interconversion,59
+NMNtex,,61
+NMNPpp,,62
+AGMD,Arginine and Proline Metabolism,67
+NCPTRCA,Arginine and Proline Metabolism,67
+GLUR,Glutamate metabolism,84
+GUAPRT,Nucleotide salvage pathway,87
+FORt,"Transport, extracellular",92
+HEX7,Fructose and mannose metabolism,93
+THMDt2rpp,,95
+CYS_Ltex,,99
+CYSt2rpp,,99
+DHNAOT,Ubiquinone and other terpenoid-quinone biosynthesis,99
+HIS_Ltex,,100
+HISt2rpp,,100
+ACKr,Pyruvate metabolism,101
+PTAr,Pyruvate metabolism,101
+GLYK,Glycerophospholipid metabolism,101
+GLYASP1c,Peptide metabolism,101
+MAN6PI,Fructose and mannose metabolism,101
+HMPK1,Thiamine metabolism,101
+HEX1,Glycolysis/gluconeogenesis,101
+PRPPS,Pentose phosphate pathway,101
+SGAT,Cell wall biosynthesis,101
+r0339,Miscellaneous,101
+FUM,Citric acid cycle,101
+4HBZt2pp,,102
+4HBZtex,,102
+ARABDt2pp,,102
+ARAB_Dtex,,102
+ARGt2pp,,102
+DAPabcpp,,102
+GTHOXtex,,102
+GTHOXti3pp,,102
+GTHRD,Glutathione metabolism,102
+LYSt2rpp,,102
+OOR2r,Citric acid cycle,102
+PHE_Ltex,,102
+PHEt2rpp,,102
+TYR_Ltex,,102
+TYRt2rpp,,102
+DPCOAti,"Transport, extracellular",102
+EAR6M8,Fatty acid synthesis,102
+EAR9M10,Fatty acid synthesis,102
+GLYCL,Folate metabolism,102
+ADOCBIK2,Vitamin B12 metabolism,102
+ADPT,Nucleotide salvage pathway,102
+CPPPGO2,Vitamin B12 metabolism,102
+CYTDt2r,"Transport, extracellular",102
+NACabc,"Transport, extracellular",102
+OCDCAtr,"Transport, extracellular",102
+RNTR4,Nucleotide interconversion,102
+ADNCNT3tc,"Transport, extracellular",102
+CYSabc,"Transport, extracellular",102
+SHSL1r,Methionine and cysteine metabolism,102
+ACACT1r,Tryptophan metabolism,102
+GLYLEUPEPT1tc,"Transport, extracellular",102
+MALTHXabc,"Transport, extracellular",102
+MLTG2,Starch and sucrose metabolism,102
+MLTG3,Starch and sucrose metabolism,102
+MLTG4,Starch and sucrose metabolism,102
+r0488,Cholesterol metabolism,102
+GLYTYRabcpp,,102
+GLYTYRtex,,102
+TMDSf2,Nucleotide interconversion,102
+PPNCL3,CoA synthesis,102
+4ABZt2pp,,102
+4ABZtex,,102
+ADNtex,,102
+GCALDtex,,102
+GCALDtpp,,102
+GLCptspp,,102
+TMDK2,Pyrimidine synthesis,102
+r1667pp,,102
+NAt3_1,"Transport, extracellular",102
+PNTOt4,"Transport, extracellular",102
+DM_4HBA,Exchange/demand reaction,102
+GLYMETabcpp,,102
+GLYMETtex,,102
+THR_Ltex,,102
+THRt2rpp,,102
+VPAMTr,"Valine, leucine, and isoleucine metabolism",102
+sink_sheme(c),Exchange/demand reaction,102
+AMMQT7rev,Ubiquinone and other terpenoid-quinone biosynthesis,102
+DHNAOT7,Ubiquinone and other terpenoid-quinone biosynthesis,102
+GLYPHEabc,"Transport, extracellular",102
+MK7te,"Transport, extracellular",102
+OCDCAt2,"Transport, extracellular",102
+TEICH45,Cell wall biosynthesis,102
+GLYC3Pabcpp,,102
+PPIt2epp,,102
+PPItex,,102
+3HACPR1,Biotin metabolism,102
+3HACPR2,Biotin metabolism,102
+3OAACPR1,Biotin metabolism,102
+3OAACPR2,Biotin metabolism,102
+AMAOTr,Biotin metabolism,102
+AOXSr2,Biotin metabolism,102
+BTS4,Biotin metabolism,102
+DBTS,Biotin metabolism,102
+DM_AMOB,Exchange/demand reaction,102
+DM_btn,Exchange/demand reaction,102
+DM_dad_5,Exchange/demand reaction,102
+EACPR1,Biotin metabolism,102
+EACPR2,Biotin metabolism,102
+GACPCD,Biotin metabolism,102
+GAMtex,,102
+MALCOACD,Biotin metabolism,102
+MALCOAMT,Biotin metabolism,102
+MEOHt2pp,,102
+MEOHtex,,102
+PMACPME,Biotin metabolism,102
+sink_s,Exchange/demand reaction,102
+AMYLOPECT900tex,,102
+AMYLOPECTepp,,102
+HEPARL1_epp,,102
+HSPGtex,,102
+ORNTA,Arginine and Proline Metabolism,102
+CYSt2r,"Transport, extracellular",102
+THMDt4,"Transport, extracellular",102
+TRE6PH,Starch and sucrose metabolism,102
+TREpts,"Transport, extracellular",102
+XYL_Dtex,,102
+DHNPA,Folate metabolism,102
+G6Pt6_2pp,,102
+G6Ptex,,102
+4HBZCL,Aminobenzoate degradation,102
+TYRL,Tyrosine metabolism,102
+ACGAMtr2pp,,102
+CYSS3r,Methionine and cysteine metabolism,102
+GLCNACASE_OGLYCAN2epp,,102
+GNCORE2tex,,102
+GCALDD,Glyoxylate and dicarboxylate metabolism,102
+GLXCL,Glyoxylate and dicarboxylate metabolism,102
+GLYCLTDxr,Glyoxylate and dicarboxylate metabolism,102
+TRSARr,Glyoxylate and dicarboxylate metabolism,102
+CITRH,Urea cycle,102
+ASPO6,NAD metabolism,102
+FBA2,Fructose and mannose metabolism,102
+MALT,Starch and sucrose metabolism,102
+DAPMDH,Folate metabolism,102
+H2Stex,,102
+H2Stpp,,102
+XYLAN_DEGepp,,102
+XYLANtex,,102
+2DMMQ8abc,"Transport, extracellular",102
+C180SN,Fatty acid synthesis,102
+GLYt2r,"Transport, extracellular",102
+METabc,"Transport, extracellular",102
+Q8abc,"Transport, extracellular",102
+THMDt2r,"Transport, extracellular",102
+SER_Ltex,,102
+FERO,Vitamin B2 metabolism,102
+NMNP,"Transport, extracellular",102
+NMNAT,NAD metabolism,102
+GLUCYS,Glutathione metabolism,102
+GTHS,Glutathione metabolism,102
+NACabcpp,,102
+TTDCAtrpp,,102
+DNMPPA,Folate metabolism,102
+DNTPPA,Folate metabolism,102
+FFSD,Starch and sucrose metabolism,102
+SUCRtex,,102
+SUCptspp,,102
+ASP4DC,,102
+NDPK2,Nucleotide interconversion,103
+NDPK4,Nucleotide interconversion,103
+NDPK1,Nucleotide interconversion,104
+PNP,NAD metabolism,110
+DHDPRy,Lysine metabolism,111
+DHDPS,Lysine metabolism,111
+GLYASNabc,"Transport, extracellular",117
+ARGDC,Arginine and Proline Metabolism,118
+PIt6bpp,,120
+DHORDfum,Pyrimidine synthesis,126
+NNAM,NAD metabolism,127
+NPHS,Ubiquinone and other terpenoid-quinone biosynthesis,136
+DHNAOT4,Ubiquinone and other terpenoid-quinone biosynthesis,138
+FRD3,Citric acid cycle,139
+THYMDtex,,146
+NH4tbpp,,147
+NH4tex,,147
+TRDRr,Sulfur metabolism,147
+GLYLEUHYDROc,"Transport, extracellular",148
+ALATA_L,Glutamate metabolism,148
+FRD7,Citric acid cycle,149
+UAGDP,Aminosugar metabolism,149
+ACtex,,150
+GLC_Dtex,,150
+ACtrpp,,151
+POR4,Pyruvate metabolism,151
+L_AROND,Tyrosine metabolism,151
+ICHORS,Ubiquinone and other terpenoid-quinone biosynthesis,151
+MALTTRabcpp,,152
+ALAHIStex,,152
+METALAabcpp,,152
+AHSERL3,Methionine and cysteine metabolism,152
+CYSS,Methionine and cysteine metabolism,152
+FRUK,Glycolysis/gluconeogenesis,152
+FBA3,Pentose phosphate pathway,152
+PFK,Glycolysis/gluconeogenesis,152
+ALAD_R,Alanine and aspartate metabolism,153
+FOLtpp,,153
+ILEt2rpp,,153
+KDOS,Lipopolysaccharide biosynthesis,153
+STCOATA,Glycerophospholipid metabolism,153
+VALt2rpp,,153
+ALAHISabc,"Transport, extracellular",153
+LYSt2r,"Transport, extracellular",153
+PPCr,Pyruvate metabolism,153
+ASN_Ltex,,153
+ASNt2rpp,,153
+EAR11M12,Fatty acid synthesis,153
+EAR12M14,Fatty acid synthesis,153
+EAR13M14,Fatty acid synthesis,153
+PTRCORNt7pp,,153
+PTRCt2pp,,153
+PYDXtrpp,,153
+AKP1,Folate metabolism,153
+DM_GCALD,Exchange/demand reaction,153
+CBMK,Arginine and Proline Metabolism,153
+DPMVDc,Squalene and cholesterol synthesis,153
+GLYGLNabc,"Transport, extracellular",153
+HMGCOAS,Squalene and cholesterol synthesis,153
+MEVK1c,Squalene and cholesterol synthesis,153
+PMEVKc,Squalene and cholesterol synthesis,153
+GK1,Nucleotide interconversion,153
+ESHCYS2_FPe,Energy metabolism,153
+MG2abc,"Transport, extracellular",153
+FAS140ACPrev,Fatty acid synthesis,153
+ORNTAC,Arginine and Proline Metabolism,153
+TTDCAt2pp,,153
+12DGR180ti,"Transport, extracellular",153
+GLYASNabcpp,,153
+GLYASNtex,,153
+THZPSN,Thiamine metabolism,153
+CYTD,Pyrimidine catabolism,153
+DEXTRINabc,"Transport, extracellular",153
+GLYPHEHYc,Pentose phosphate pathway,153
+GLYTYRabc,"Transport, extracellular",153
+GTHRDt2,"Transport, extracellular",153
+HYXNt,"Transport, extracellular",153
+SUCR,Plant polysaccharide degradation,153
+CGLYabcpp,,153
+ACCOAC,Fatty acid oxidation,153
+ALAHISabcpp,,153
+METALAtex,,153
+IPDPS2,Terpenoid backbone biosynthesis,153
+TYRt2r,"Transport, extracellular",153
+STYSabcpp,,153
+STYStex,,153
+SEPHCHS,Ubiquinone and other terpenoid-quinone biosynthesis,153
+SHCHCS3,Ubiquinone and other terpenoid-quinone biosynthesis,153
+P1CM,Vitamin B12 metabolism,153
+UPP3MT3,Vitamin B12 metabolism,153
+PAPA180,Glycerophospholipid metabolism,153
+AMPMS2,Thiamine metabolism,153
+ALCD19,Pyruvate metabolism,153
+PHEt2r,"Transport, extracellular",153
+PULLe,Starch and sucrose metabolism,153
+SERt2r,"Transport, extracellular",153
+ADK1,Nucleotide interconversion,155
+PNTK,CoA synthesis,159
+PPCDC,CoA synthesis,159
+PTPAT,CoA synthesis,159
+CDPMEK,Terpenoid backbone biosynthesis,162
+MECDPDH2,Terpenoid backbone biosynthesis,162
+MECDPS,Terpenoid backbone biosynthesis,162
+MEPCT,Terpenoid backbone biosynthesis,162
+DXPS,Terpenoid backbone biosynthesis,163
+METS,Methionine and cysteine metabolism,165
+DHORDnad,,176
+UGLT,Galactose metabolism,178
+ARG_Ltex,,184
+SUCBZL,Ubiquinone and other terpenoid-quinone biosynthesis,185
+SUCBZS,Ubiquinone and other terpenoid-quinone biosynthesis,185
+ALAR,Alanine and aspartate metabolism,188
+HSERTA,Methionine and cysteine metabolism,196
+HXPRT,Nucleotide salvage pathway,196
+r0127,Alanine and aspartate metabolism,198
+CO2tex,,199
+GLYCtex,,199
+GLYCtpp,,199
+MQN8tex,,199
+CO2tpp,,200
+DM_kdo2lipid4L(c),Exchange/demand reaction,200
+PYDXNtex,,200
+MK8tpp,,201
+SHSL4,,201
+NADS1,NAD metabolism,202
+RAFGH,Plant polysaccharide degradation,202
+STYSabc,"Transport, extracellular",202
+NP1_r,NAD metabolism,202
+SERATi,Methionine and cysteine metabolism,202
+TMK,Thiamine metabolism,203
+G3PAT180,Glycerophospholipid metabolism,203
+PNTOt4pp,,203
+TMPPP,Thiamine metabolism,203
+23DHMPO,"Valine, leucine, and isoleucine metabolism",203
+2AHBUTI,"Valine, leucine, and isoleucine metabolism",203
+PYDXNK,Vitamin B6 metabolism,203
+DEXTRINASE,Starch and sucrose metabolism,204
+FOLtex,,204
+TMDK1,Nucleotide interconversion,204
+EAR8M10,Fatty acid synthesis,204
+ORNtex,,204
+ADMDCr,Arginine and Proline Metabolism,204
+CYSTGL,Methionine and cysteine metabolism,204
+DM_5MTR,Exchange/demand reaction,204
+MTAN,Arginine and Proline Metabolism,204
+NTD4,Pyrimidine catabolism,204
+PIabc,"Transport, extracellular",204
+SPMS,Urea cycle,204
+TMDPK,Thiamine metabolism,204
+GLYGLN1c,Peptide metabolism,204
+MALTTRabc,"Transport, extracellular",204
+CGLYt3_2_pp,,204
+GGTA,Glutathione metabolism,204
+OCDCAt2pp,,204
+OCDCAtex,,204
+SPMDabc,"Transport, extracellular",204
+TRPabc,,204
+26DAPt2rpp,,204
+PYDXabcpp,,204
+GAMt2rpp,,204
+NICRNS,,204
+SHCHD2,Vitamin B12 metabolism,204
+SHCHF,Vitamin B12 metabolism,204
+PYDXNtrpp,,204
+MK8t,"Transport, extracellular",207
+DXPRIr,Terpenoid backbone biosynthesis,212
+METt2rpp,,222
+METAT,Methionine and cysteine metabolism,223
+NNDPR,NAD metabolism,229
+QULNS,NAD metabolism,229
+CGLYabc,"Transport, extracellular",230
+GLYC3Pabc,"Transport, extracellular",230
+VAL_Ltex,,242
+FTHFL,Folate metabolism,243
+RIBFLVtex,,244
+RIBFLVt2rpp,,245
+FBP,Glycolysis/gluconeogenesis,248
+ALATHR1c,Peptide metabolism,250
+HSST,Methionine and cysteine metabolism,251
+FACOAL140,Fatty acid oxidation,251
+O2tex,,253
+O2tpp,,253
+DMPPS,Terpenoid backbone biosynthesis,253
+THMabcpp,,254
+THMtex,,254
+IPDDI,Squalene and cholesterol synthesis,254
+GLYTYR1c,Peptide metabolism,254
+DHFOR2,Folate metabolism,254
+XYLI1,Pentose and glucuronate interconversions,254
+ADK5,Nucleotide interconversion,255
+CO2t,"Transport, extracellular",255
+PROt4rpp,,255
+ACCOACL,Pyruvate metabolism,255
+BTNCLi,Biotin metabolism,255
+CYSTS,Methionine and cysteine metabolism,255
+FCLTc,Heme synthesis,255
+PPPGO3,Vitamin B12 metabolism,255
+THMabc,"Transport, extracellular",255
+UPPDC1,Heme synthesis,255
+G6PDA,Aminosugar metabolism,255
+HEX10,Aminosugar metabolism,255
+LYSabc,"Transport, extracellular",255
+TRPt2r,"Transport, extracellular",255
+ADOCBIK,Vitamin B12 metabolism,255
+ALATHRabc,"Transport, extracellular",255
+SHEMEabcpp,,255
+SHEMEtex,,255
+TDCOATA,Glycerophospholipid metabolism,255
+TTDCAtex,,255
+GALUi,Galactose metabolism,255
+PYDXabc,"Transport, extracellular",255
+RIBFLVt2r,"Transport, extracellular",255
+XYLK,Pentose phosphate pathway,255
+NAt3_1pp,,255
+biomass345,,256
+FT,N-glycan synthesis,256
+AHC,Methionine and cysteine metabolism,257
+IPDPUPT,Terpenoid backbone biosynthesis,257
+ADCL,Folate metabolism,259
+ADCS,Folate metabolism,259
+UDCPDPS,Cell wall biosynthesis,261
+PDX5PS,Vitamin B6 metabolism,263
+LARGNAT,Phenylalanine metabolism,265
+PGAMT,Cell wall biosynthesis,266
+GLYASN1c,Peptide metabolism,266
+G1PACT,Cell wall biosynthesis,268
+UMPK,Nucleotide interconversion,269
+ALAGLNabc,"Transport, extracellular",277
+PRO_Ltex,,283
+GLYCYSabcpp,,289
+ILE_Ltex,,290
+GLYCYStex,,290
+GARFTi,Purine synthesis,300
+GALK,Galactose metabolism,300
+UDPG4E,Galactose metabolism,300
+PMPK,Thiamine metabolism,301
+TRP_Ltex,,302
+TRPt2rpp,,302
+TECA5S180,Cell wall biosynthesis,304
+TECA5SAI17,Cell wall biosynthesis,304
+TECA5SI17,Cell wall biosynthesis,304
+THRD,"Glycine, serine, alanine and threonine metabolism",305
+PSERT,"Glycine, serine, alanine, and threonine metabolism",305
+PSP_L,"Glycine, serine, alanine, and threonine metabolism",305
+26DAP_Mtex,,306
+GLYAT,"Glycine, serine, alanine and threonine metabolism",306
+ALAHIS1c,Peptide metabolism,306
+EAR10M12,Fatty acid synthesis,306
+EAR14M16,Fatty acid synthesis,306
+EAR15M16,Fatty acid synthesis,306
+EAR4M6,Fatty acid synthesis,306
+EAR7M8,Fatty acid synthesis,306
+G1SAT,Heme synthesis,306
+GLUTRR,tRNA Charging,306
+GLUTRS,tRNA Charging,306
+SHEMEabc,"Transport, extracellular",306
+GALT,Galactose metabolism,306
+PPCKr,Citric acid cycle,306
+PGCDr,"Glycine, serine, alanine and threonine metabolism",306
+FACOAL180i,Fatty acid oxidation,306
+AIHDUDPMG,Glycerophospholipid metabolism,306
+AIHDUPDG,Glycerophospholipid metabolism,306
+FOLt,"Transport, extracellular",306
+GLYCYSabc,"Transport, extracellular",306
+HEMEti,"Transport, extracellular",306
+IHDUDPG,Cell wall biosynthesis,306
+IHDUDPMG,Cell wall biosynthesis,306
+PAAI17P,Glycerophospholipid metabolism,306
+PAI17P,Glycerophospholipid metabolism,306
+SUDPDGT,Cell wall biosynthesis,306
+SUDPMGT,Cell wall biosynthesis,306
+TECA1S180,Cell wall biosynthesis,306
+TECA1SAI17,Cell wall biosynthesis,306
+TECA1SI17,Cell wall biosynthesis,306
+TECA2S180,Cell wall biosynthesis,306
+TECA2SAI17,Cell wall biosynthesis,306
+TECA2SI17,Cell wall biosynthesis,306
+TECA3S180,Cell wall biosynthesis,306
+TECA3SAI17,Cell wall biosynthesis,306
+TECA3SI17,Cell wall biosynthesis,306
+GLYC3Ptpp,,306
+PYDXtex,,306
+biomass536,,306
+Q8abcpp,,307
+Q8tex,,307
+METALAabc,"Transport, extracellular",318
+DPRr,CoA synthesis,321
+3OAS160,Fatty acid synthesis,322
+3HAD160,Fatty acid synthesis,325
+3OAR160,Fatty acid synthesis,325
+ALAGLN1c,Peptide metabolism,326
+EAR160x,Fatty acid synthesis,326
+3OAR180,Fatty acid synthesis,334
+3HAD180,Fatty acid synthesis,335
+EAR180x,Fatty acid synthesis,336
+3OAS180,Fatty acid synthesis,337
+PDX5PO2,Vitamin B6 metabolism,338
+STYSGH,Plant polysaccharide degradation,355
+MG2abcpp,,356
+PNTO_Rtex,,356
+HMBS,Heme synthesis,356
+PPBNGS,Heme synthesis,356
+UPP3S,Heme synthesis,356
+EAR5M6,Fatty acid synthesis,357
+FE2DH,"Transport, extracellular",357
+PYDXtr,"Transport, extracellular",357
+CGLYtex,,357
+MALCOAPYRCT,Propanoate metabolism,357
+SPMDtex,,357
+GLYC3Ptex,,357
+HEMEtipp,,358
+PHEMEtex,,358
+SPMDabcpp,,358
+NNATr,NAD metabolism,360
+PERD,Vitamin B6 metabolism,363
+E4PD,Vitamin B6 metabolism,364
+OHPBAT,Vitamin B6 metabolism,364
+PPA,Oxidative phosphorylation,369
+TYRTA,Tyrosine metabolism,370
+GLNS,Glutamate metabolism,383
+4HTHDS,,400
+4HTHDR,,402
+OMBZLM,Ubiquinone and other terpenoid-quinone biosynthesis,405
+ORNDC,Urea cycle,406
+ASPTA,Alanine and aspartate metabolism,407
+UDPGDr,Pentose and glucuronate interconversions,407
+PYK,Glycolysis/gluconeogenesis,407
+DMQMT,Ubiquinone and other terpenoid-quinone biosynthesis,408
+OMMBLHX3,Ubiquinone and other terpenoid-quinone biosynthesis,408
+OMPHHX3,Ubiquinone and other terpenoid-quinone biosynthesis,408
+GLYMETabc,"Transport, extracellular",408
+MNt2,"Transport, extracellular",408
+SDPDS,Lysine metabolism,408
+SDPTA,Lysine metabolism,408
+THDPS,Lysine metabolism,408
+Kt1rpp,,408
+MNabcpp,,408
+AHCYSNS_r,Methionine and cysteine metabolism,408
+CAt4i,"Transport, extracellular",408
+CHRPL,Ubiquinone and other terpenoid-quinone biosynthesis,408
+DM_dhptd(c),Exchange/demand reaction,408
+RHCCE,Methionine and cysteine metabolism,408
+Coabc,"Transport, extracellular",408
+PNTOabc,"Transport, extracellular",408
+MNabc,"Transport, extracellular",408
+sink_gthrd(c),Exchange/demand reaction,409
+OPHHX3,Ubiquinone and other terpenoid-quinone biosynthesis,423
+IMPD,Nucleotide interconversion,428
+NACt2r,"Transport, extracellular",431
+MLTG1,Starch and sucrose metabolism,432
+GLYMET1c,Peptide metabolism,440
+METALA1c,Peptide metabolism,441
+NACt2rpp,,447
+PRASCSi,Purine synthesis,448
+SUCCt2r,"Transport, extracellular",448
+ADSL2r,Purine synthesis,450
+AIRC4,Purine synthesis,450
+AMMQT8r,Ubiquinone and other terpenoid-quinone biosynthesis,450
+ASPKi,"Glycine, serine, alanine and threonine metabolism",453
+TALA,Pentose phosphate pathway,454
+ASAD,"Glycine, serine, alanine and threonine metabolism",457
+GF6PTA,Aminosugar metabolism,459
+FRTT,Cholesterol metabolism,459
+GGTT,Terpenoid backbone biosynthesis,459
+PPTT,Terpenoid backbone biosynthesis,459
+DHFS,Folate metabolism,460
+GTPCI,Tetrahydrobiopterin metabolism,460
+MET_Ltex,,476
+GMPS2,Nucleotide interconversion,484
+HBZOPT,Ubiquinone and other terpenoid-quinone biosynthesis,492
+OHPHM,Ubiquinone and other terpenoid-quinone biosynthesis,492
+OPHBDC,Ubiquinone and other terpenoid-quinone biosynthesis,492
+HEXTT,Terpenoid backbone biosynthesis,492
+PLPS,Vitamin B6 metabolism,497
+PFL,Pyruvate metabolism,499
+H2Otpp,,499
+SUCOAS,Citric acid cycle,501
+H2Ot,"Transport, extracellular",506
+TMPK,Thiamine metabolism,507
+Coabcpp,,510
+PHETA1,Phenylalanine metabolism,510
+ZNabc,"Transport, extracellular",510
+CA2abcpp,,510
+PPNDH,Phenylalanine metabolism,511
+CAt4ipp,,511
+RNTR2,Nucleotide interconversion,512
+EAR14M16x,Fatty acid synthesis,513
+PYDXK,Vitamin B6 metabolism,517
+ACODAr,Urea cycle,520
+ACGS,Urea cycle,522
+RNTR3,Nucleotide interconversion,527
+SHKK,Phenylalanine metabolism,529
+DDPA,Phenylalanine metabolism,530
+DHQS,Phenylalanine metabolism,530
+DHQTi,Phenylalanine metabolism,530
+PSCVT,Phenylalanine metabolism,531
+CHORS,Phenylalanine metabolism,532
+ADSL1r,Purine synthesis,533
+SHK3Dr,Phenylalanine metabolism,533
+ADSS,Nucleotide interconversion,537
+DAPE,Lysine metabolism,538
+HETT,Terpenoid backbone biosynthesis,541
+NACtex,,543
+PItex,,545
+AMPTASEGC,Peptide metabolism,546
+MTHFC,Folate metabolism,547
+LYSt3rpp,,547
+ASPCT,Pyrimidine synthesis,548
+DHORTS,Pyrimidine synthesis,549
+METFR,Folate metabolism,550
+UTPATPT,Nucleotide interconversion,556
+DHFR,Folate metabolism,556
+CYTK1,Nucleotide interconversion,560
+CA2abc,"Transport, extracellular",561
+COBALTt5,"Transport, extracellular",561
+Kt1r,"Transport, extracellular",561
+RNTR1,Nucleotide interconversion,562
+EAR15M16x,Fatty acid synthesis,563
+EAR5M6x,Fatty acid synthesis,563
+EAR7M8x,Fatty acid synthesis,563
+ADK3,Nucleotide interconversion,563
+EAR10M12x,Fatty acid synthesis,564
+EAR4M6x,Fatty acid synthesis,564
+THRS,"Glycine, serine, alanine, and threonine metabolism",568
+HSK,"Glycine, serine, alanine and threonine metabolism",571
+Htex,,577
+RPI,Pentose phosphate pathway,580
+AMPTASECG,Glutathione metabolism,582
+DAPDC,Lysine metabolism,583
+26DAPLLAT,Lysine metabolism,585
+CHORM,Phenylalanine metabolism,592
+OMPDC,Pyrimidine synthesis,593
+OROTPT,Pyrimidine synthesis,593
+FBA,Glycolysis/gluconeogenesis,597
+MTHFD,Folate metabolism,599
+DPR,CoA synthesis,602
+LYS_Ltex,,604
+HSTPTr,Histidine metabolism,607
+PRMICI,Histidine metabolism,607
+ATPPRT,Histidine metabolism,608
+HISTP,Histidine metabolism,608
+IG3PS,Histidine metabolism,608
+IGPDH,Histidine metabolism,608
+PRAMPC,Histidine metabolism,608
+PRATPP,Histidine metabolism,608
+MCOATA,Fatty acid oxidation,610
+ADK10,Nucleotide interconversion,613
+CBIAT,Vitamin B12 metabolism,613
+3HAD12M14,Fatty acid synthesis,614
+3HAD13M14,Fatty acid synthesis,614
+3HAD8M10,Fatty acid synthesis,614
+3HAD9M10,Fatty acid synthesis,614
+3OAR4M6,Fatty acid synthesis,614
+3OAS3M4,Fatty acid synthesis,614
+3OAS4M3O6,Fatty acid synthesis,614
+3OAS8M10,Fatty acid synthesis,614
+3OAS9M10,Fatty acid synthesis,614
+OIVD1r,"Valine, leucine, and isoleucine metabolism",614
+2MBCOATA,Glycerophospholipid metabolism,615
+3HAD10M12,Fatty acid synthesis,615
+3HAD11M12,Fatty acid synthesis,615
+3HAD14M16,Fatty acid synthesis,615
+3HAD15M16,Fatty acid synthesis,615
+3HAD4M6,Fatty acid synthesis,615
+3HAD5M6,Fatty acid synthesis,615
+3HAD6M8,Fatty acid synthesis,615
+3HAD7M8,Fatty acid synthesis,615
+3OAR10M12,Fatty acid synthesis,615
+3OAR11M12,Fatty acid synthesis,615
+3OAR12M14,Fatty acid synthesis,615
+3OAR13M14,Fatty acid synthesis,615
+3OAR14M16,Fatty acid synthesis,615
+3OAR15M16,Fatty acid synthesis,615
+3OAR5M6,Fatty acid synthesis,615
+3OAR6M8,Fatty acid synthesis,615
+3OAR7M8,Fatty acid synthesis,615
+3OAR8M10,Fatty acid synthesis,615
+3OAR9M10,Fatty acid synthesis,615
+3OAS10M12,Fatty acid synthesis,615
+3OAS11M12,Fatty acid synthesis,615
+3OAS12M14,Fatty acid synthesis,615
+3OAS13M14,Fatty acid synthesis,615
+3OAS4M6,Fatty acid synthesis,615
+3OAS5M6,Fatty acid synthesis,615
+3OAS6M8,Fatty acid synthesis,615
+3OAS7M8,Fatty acid synthesis,615
+ACBIPGT,Vitamin B12 metabolism,615
+ACOAAGPATAI17,Glycerophospholipid metabolism,615
+ACOAAGPATI17,Glycerophospholipid metabolism,615
+ADOCBLS,Vitamin B12 metabolism,615
+AIHPDCOATA,Glycerophospholipid metabolism,615
+CLPNS180,Glycerophospholipid metabolism,615
+CLPNSAI17,Glycerophospholipid metabolism,615
+CLPNSI17,Glycerophospholipid metabolism,615
+DASYN180,Glycerophospholipid metabolism,615
+DASYNAI17,Glycerophospholipid metabolism,615
+DASYNI17,Glycerophospholipid metabolism,615
+EAR6M8x,Fatty acid synthesis,615
+G3PATAI17,Glycerophospholipid metabolism,615
+G3PATI17,Glycerophospholipid metabolism,615
+IHPDCOATA,Glycerophospholipid metabolism,615
+IVCOATA,Glycerophospholipid metabolism,615
+NNDMBRT,NAD metabolism,615
+OIVD3,"Valine, leucine, and isoleucine metabolism",615
+PGPPAI17,Glycerophospholipid metabolism,615
+PGPPI17,Glycerophospholipid metabolism,615
+PGSAAI17,Glycerophospholipid metabolism,615
+PGSAI17,Glycerophospholipid metabolism,615
+PSD180,Glycerophospholipid metabolism,615
+PSDAI17,Glycerophospholipid metabolism,615
+PSDI17,Glycerophospholipid metabolism,615
+PSSA180,Glycerophospholipid metabolism,615
+PSSAAI17,Glycerophospholipid metabolism,615
+PSSAI17,Glycerophospholipid metabolism,615
+RZ5PP,Vitamin B12 metabolism,615
+ADK2,Nucleotide interconversion,633
+GHMT2r,"Glycine, serine, alanine, and threonine metabolism",640
+DHPPDA,Vitamin B2 metabolism,643
+APRAUR,Vitamin B2 metabolism,645
+GTPCII,Vitamin B2 metabolism,645
+DB4PS,Vitamin B2 metabolism,646
+PMDPHT,Vitamin B2 metabolism,646
+RBFSa,Vitamin B2 metabolism,646
+RBFSb,Vitamin B2 metabolism,646
+GLUPRT,Purine synthesis,652
+PRAGS,Purine synthesis,652
+PRAIS,Purine synthesis,652
+PRFGS,Purine synthesis,652
+EAR12M14x,Fatty acid synthesis,665
+EAR8M10x,Fatty acid synthesis,665
+EAR9M10x,Fatty acid synthesis,665
+PGPP180,Glycerophospholipid metabolism,665
+PGSA180,Glycerophospholipid metabolism,665
+EAR11M12x,Fatty acid synthesis,666
+EAR13M14x,Fatty acid synthesis,666
+ARGSL,Alanine and aspartate metabolism,670
+ARGSS,,672
+MOHMT,CoA synthesis,684
+FE3abc,"Transport, extracellular",687
+NAPRT,NAD metabolism,693
+AGPR,Urea cycle,705
+ACGK,Arginine and Proline Metabolism,708
+ACOTA,Arginine and Proline Metabolism,709
+PANTS,CoA synthesis,710
+ASP1DC,Beta-Alanine metabolism,711
+ACOATA,Fatty acid oxidation,713
+KAS14,Fatty acid synthesis,713
+COBALTt5pp,,715
+H2CO3D,Miscellaneous,721
+TMDS,Nucleotide interconversion,723
+3HAD140,Fatty acid synthesis,726
+EAR140x,Fatty acid synthesis,727
+OCBT,Urea cycle,729
+TKT2,Pentose phosphate pathway,740
+AICART,Purine synthesis,746
+IMPC,Purine synthesis,747
+G3PD1,Glycerophospholipid metabolism,754
+GALU,Galactose metabolism,756
+PGMT,Glycolysis/gluconeogenesis,761
+TKT1,Pentose phosphate pathway,764
+ZNabcpp,,764
+FE2abc,"Transport, extracellular",765
+SO4t2,"Transport, extracellular",765
+biomass525,,765
+MNt2pp,,765
+IGPS,Tryptophan metabolism,767
+PRAI,Tryptophan metabolism,767
+ANPRT,Tryptophan metabolism,768
+CBPS,Pyrimidine synthesis,769
+RPE,Pentose phosphate pathway,802
+THRD_L,"Glycine, serine, alanine, and threonine metabolism",811
+3OAR100,Fatty acid synthesis,812
+3OAS100,Fatty acid synthesis,812
+3OAS120,Fatty acid synthesis,812
+3OAS60,Fatty acid synthesis,812
+3OAS80,Fatty acid synthesis,812
+3OAR40,Fatty acid synthesis,813
+3OAR60,Fatty acid synthesis,813
+ILETA,"Valine, leucine, and isoleucine metabolism",814
+3HAD100,Fatty acid synthesis,815
+3HAD120,Fatty acid synthesis,815
+3HAD40,Fatty acid synthesis,815
+3HAD60,Fatty acid synthesis,815
+3HAD80,Fatty acid synthesis,815
+3OAR120,Fatty acid synthesis,815
+3OAS140,Fatty acid synthesis,815
+3OAR80,Fatty acid synthesis,816
+EAR100x,Fatty acid synthesis,817
+EAR120x,Fatty acid synthesis,817
+EAR40x,Fatty acid synthesis,817
+EAR60x,Fatty acid synthesis,817
+EAR80x,Fatty acid synthesis,817
+3OAR140,Fatty acid synthesis,817
+SO4tex,,819
+DHAD2,"Valine, leucine, and isoleucine metabolism",838
+ACHBPL,"Valine, leucine, and isoleucine metabolism",839
+FE3tex,,848
+ACLS_a,"Valine, leucine, and isoleucine metabolism",855
+G1PTT,Nucleotide sugar metabolism,860
+TDPDRE,Nucleotide sugar metabolism,860
+TDPGDH,Nucleotide sugar metabolism,860
+ACGAMT,Cell wall biosynthesis,862
+UAG4E,Aminosugar metabolism,863
+KDOCT2,Lipopolysaccharide biosynthesis,863
+G3PCT,Glycerophospholipid metabolism,864
+UAG2E,Aminosugar metabolism,864
+TDPDRRr,Lipopolysaccharide biosynthesis,864
+UACMAMAT,Aminosugar metabolism,865
+ALAPGPL,Cell wall biosynthesis,866
+CDPGLYCGPT,Cell wall biosynthesis,867
+Cuabc,"Transport, extracellular",867
+PGPGT,Cell wall biosynthesis,867
+TECA4S,Cell wall biosynthesis,867
+TECAAE,Cell wall biosynthesis,867
+TECAGE,Cell wall biosynthesis,867
+TECAUE,Cell wall biosynthesis,867
+r2137,"Transport, extracellular",867
+G5SDr,Arginine and Proline Metabolism,868
+AGMHE,Lipopolysaccharide biosynthesis,868
+CA2tex,,868
+CDOSKT,Lipopolysaccharide biosynthesis,868
+CLtex,,868
+COBALT2tex,,868
+CU2tex,,868
+Cuabcpp,,868
+EDTXS1,Lipopolysaccharide biosynthesis,868
+EDTXS2,Lipopolysaccharide biosynthesis,868
+GALT1,Lipopolysaccharide biosynthesis,868
+GLCTR1,Lipopolysaccharide biosynthesis,868
+GLCTR2,Lipopolysaccharide biosynthesis,868
+GLCTR3,Lipopolysaccharide biosynthesis,868
+GMHEPAT,Lipopolysaccharide biosynthesis,868
+GMHEPK,Lipopolysaccharide biosynthesis,868
+GMHEPPA,Lipopolysaccharide biosynthesis,868
+HEPK1,Lipopolysaccharide biosynthesis,868
+HEPK2,Lipopolysaccharide biosynthesis,868
+HEPT1,Lipopolysaccharide biosynthesis,868
+HEPT2,Lipopolysaccharide biosynthesis,868
+HEPT3,Lipopolysaccharide biosynthesis,868
+HEPT4,Lipopolysaccharide biosynthesis,868
+Ktex,,868
+LPADSS,Lipopolysaccharide biosynthesis,868
+MG2tex,,868
+MN2tex,,868
+MOAT,Lipopolysaccharide biosynthesis,868
+MOAT3C,Lipopolysaccharide biosynthesis,868
+RHAT1,Lipopolysaccharide biosynthesis,868
+S7PIr,Lipopolysaccharide biosynthesis,868
+TDSK,Lipopolysaccharide biosynthesis,868
+U23GAAT,Lipopolysaccharide biosynthesis,868
+UAGAAT,Aminosugar metabolism,868
+UHGADA,Lipopolysaccharide biosynthesis,868
+USHD,Lipopolysaccharide biosynthesis,868
+ZN2tex,,868
+r2137pp,,868
+GLU5K,Arginine and Proline Metabolism,869
+FE3abcpp,,886
+P5CRyr,Arginine and Proline Metabolism,900
+SO4t2pp,,917
+KDOPP,Lipopolysaccharide biosynthesis,918
+A5PISO,Pentose and glucuronate interconversions,919
+KDOPSr,Lipopolysaccharide biosynthesis,919
+G5SADs,Urea cycle,950
+FE2tex,,957
+FE2abcpp,,958
+3MOBS,"Valine, leucine, and isoleucine metabolism",988
+TPI,Glycolysis/gluconeogenesis,992
+IPMDr,"Valine, leucine, and isoleucine metabolism",1033
+IPPMIb,"Valine, leucine, and isoleucine metabolism",1033
+IPPMIa,"Valine, leucine, and isoleucine metabolism",1034
+OMCDC,"Valine, leucine, and isoleucine metabolism",1036
+sink_PGPm1c,,1071
+LEUTA,"Valine, leucine, and isoleucine metabolism",1077
+VALTA,"Valine, leucine, and isoleucine metabolism",1136
+PGM,Glycolysis/gluconeogenesis,1239
+ENO,Glycolysis/gluconeogenesis,1245
+DHAD1,"Valine, leucine, and isoleucine metabolism",1250
+ACLS_b,"Valine, leucine, and isoleucine metabolism",1254
+PGK,Glycolysis/gluconeogenesis,1282
+GAPD,Glycolysis/gluconeogenesis,1330
